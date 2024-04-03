@@ -1,0 +1,19 @@
+.box{
+    border:solid 10px;
+    border-color:black;
+    height:1000px;
+}
+.heading{
+    text-align:center;
+    color:darkmagenta;
+}
+.profile{
+    height:200px;
+    width:200px;
+    margin-left:550px;
+}
+.a{
+    margin-left:550px;
+    height:200px;
+    width:300px;
+}
